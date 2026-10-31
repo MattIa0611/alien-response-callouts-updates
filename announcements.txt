@@ -1,4 +1,4 @@
 # Optional release announcements for Alien Response Callouts 1.2.1 and newer.
 # Leave a value empty to disable that notice. Use numeric versions only.
-UpcomingVersion=
+UpcomingVersion=1.3
 BetaVersion=
